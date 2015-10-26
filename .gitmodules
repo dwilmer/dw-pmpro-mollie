@@ -1,0 +1,3 @@
+[submodule "mollie-api-php"]
+	path = mollie-api-php
+	url = https://github.com/mollie/mollie-api-php
