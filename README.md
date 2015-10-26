@@ -16,3 +16,4 @@ The source code is licenced under GPLv2, as is this plugin.
 Mollie is a payment provider to accept online banking transactions
 
  - [Website](https://www.mollie.com/)
+ - [PHP API on GitHub](https://github.com/mollie/mollie-api-php)
