@@ -1,3 +1,6 @@
+# IMPORTANT!
+Due to my client (for whom I would be developing) switching to WooCommerce, which suits their needs much better and has mollie integration available (although it is paid), I will not be developing this plugin in the near future.
+
 # dw-pmpro-mollie
 
 This is a wordpress plugin for the Paid Memberships Pro plugin.
